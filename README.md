@@ -1,4 +1,4 @@
-# Leave Management System
+# Leave Management System-Software Engineering Course
 
 Welcome to the Leave Management System – a web-based application designed to streamline leave requests for employees.
 
